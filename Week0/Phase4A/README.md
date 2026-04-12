@@ -95,8 +95,6 @@ This helps businesses quickly identify high-value and low-value customers.
 - **Best Method for Real-World Use**  
   Combination of **business rules + data-driven methods**  
 
----
-
 ## 🚀 Conclusion
 This phase provided a strong understanding of **data segmentation techniques** and their importance in real-world analytics.  
 It also highlighted how different approaches can lead to different business insights.
