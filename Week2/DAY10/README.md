@@ -1,4 +1,4 @@
-**End-to-End Incremental Data Pipeline using PySpark (Medallion Architecture Inspired)**
+#### End-to-End Incremental Data Pipeline using PySpark (Medallion Architecture Inspired)
 
 ---
 
